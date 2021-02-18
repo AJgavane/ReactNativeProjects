@@ -1,0 +1,11 @@
+.components__container {
+    padding: 0px 10px 0px 10px;
+}
+
+.components__container h1 {
+    font-size: 45px;
+}
+
+.components__container p {
+    font-size: 25px;
+}

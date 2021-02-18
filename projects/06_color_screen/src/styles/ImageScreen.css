@@ -1,0 +1,11 @@
+.image__container {
+    padding: 0px 10px 0px 10px;
+}
+
+.image__container h1 {
+    font-size: 45px;
+}
+
+.image__container__details {
+    padding: 0px 10px 0px 10px;
+}

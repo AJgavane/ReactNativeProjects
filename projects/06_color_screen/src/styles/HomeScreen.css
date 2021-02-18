@@ -1,0 +1,11 @@
+.homescreen__container {
+    padding: 0px 10px 0px 10px;
+}
+
+.homescreen__container h1 {
+    font-size: 45px;
+}
+
+.homescreen_button_container {
+    padding: 10px 10px 0px 10px;
+}

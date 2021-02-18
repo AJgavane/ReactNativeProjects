@@ -1,0 +1,15 @@
+.counter__container {
+    padding: 0px 10px 0px 10px;
+}
+
+.counter__container p {
+    font-size: 25px;
+}
+
+.counter__container__buttons {
+    padding: 10px 0px 10px 0px;
+}
+
+.counter__container__text {
+    font-size: 35px;
+}
