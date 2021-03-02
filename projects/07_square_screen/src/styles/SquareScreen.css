@@ -1,0 +1,16 @@
+.square__container {
+    padding: 0px 10px 0px 10px;
+}
+
+.square__container__header h1{
+    font-size: 32px;
+    border-bottom: 2px solid #42494D;
+}
+
+.square__container__colorviewer {
+    padding: 0px 10px 0px 10px;
+}
+
+.square__container__color {
+    border-bottom: 1px solid #42494D;
+}

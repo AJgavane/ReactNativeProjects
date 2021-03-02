@@ -1,0 +1,11 @@
+.counter {
+    padding: 0px 10px 0px 10px;
+}
+
+.counter h1 {
+    font-size: 35px;
+}
+
+.counter__button {
+    padding: 5px 10px;
+}
