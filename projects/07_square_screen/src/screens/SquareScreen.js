@@ -17,6 +17,7 @@ import '../styles/SquareScreen.css'
  *  as a prop if the ColorCounter needed to use these value : {colorValue: red}.
  *  We need our child component to change the state value. In this case, we don't pass the state var as propbs, but a callback
  *  function to change the state value as a prop  : {onChange: () => {}}
+ * 
  */
 
 
